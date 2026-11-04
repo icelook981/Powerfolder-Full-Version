@@ -237,4 +237,4 @@ This repository serves as the official landing page for PowerFolder. The softwar
 **Get the most recent version of PowerFolder today!**
 
 ---
-**Last updated:** 2026-11-03 21:38:47 UTC
+**Last updated:** 2026-11-04 01:58:31 UTC
